@@ -24,7 +24,7 @@ BuildRequires: aspell >= %{aspell_ver}
 BuildRequires: make
 Requires:      aspell >= %{aspell_ver}
 
-# Mandrake Stuff
+# Mandriva Stuff
 # there is not tet locale yet
 #Requires:      locales-%{languagecode}
 Provides:      aspell-dictionary
